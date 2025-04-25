@@ -1,18 +1,18 @@
-![image](https://github.com/user-attachments/assets/8d2b3543-98ce-4935-9dac-d8184457bbbd)# 💳 Credit Card Fraud Detection
+#  Credit Card Fraud Detection
 
 This project aims to develop a Machine Learning model that detects fraudulent credit card transactions using real-world data. It is submitted as part of the GrowthLink Data Science Internship Assignment.
 
-## 📌 Objective
+##  Objective
 
 To build a classification model that accurately detects fraudulent transactions from a highly imbalanced dataset, with a focus on minimizing false negatives and maximizing recall.
 
-## 📁 Dataset
+##  Dataset
 
 - Source: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - The dataset contains **284,807** transactions, with only **492** frauds.
 - Features are anonymized using PCA, with the exception of `Time` and `Amount`.
 
-## ⚙️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 - Python
 - Pandas, NumPy
@@ -20,7 +20,7 @@ To build a classification model that accurately detects fraudulent transactions 
 - Matplotlib, Seaborn
 - Jupyter Notebook (or VS Code)
 
-## 🧠 ML Approach
+##  ML Approach
 
 1. **Data Preprocessing**:
    - Removed duplicates and handled outliers.
@@ -50,7 +50,7 @@ Support	 |  56,750	      |     56,976	    |   113,726	| 113,726
 
 > High **recall** ensures that most fraudulent transactions are correctly detected.
 
-## 🖥️ How to Run This Project
+##  How to Run This Project
 
 1. **Clone the Repository**
 
