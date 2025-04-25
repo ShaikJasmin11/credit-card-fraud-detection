@@ -152,7 +152,6 @@ spacy-loggers==1.0.5
 sqlparse==0.5.3
 srsly==2.4.8
 stack-data==0.6.3
-streamlit==1.13.0
 sympy==1.13.1
 terminado==0.18.1
 thinc==8.3.2
